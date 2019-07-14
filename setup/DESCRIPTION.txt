@@ -1,0 +1,7 @@
+This repository contains a boilerplate used for all Adrestia Python
+projects.  This is intended to take setuptools and other common tooling
+and establish a quick way to get started with a new project with a minimal
+amount of time.
+
+Call this the lazy programmer's approach to starting
+your work.
