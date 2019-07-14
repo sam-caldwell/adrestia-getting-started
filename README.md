@@ -38,7 +38,7 @@ your work.
     * Todo: Add a git hook to require all commits to first pass linting.
 * We have used your answers to the initialization questions to
   setup your project so setup.py and other tooling uses the same information
-  all the time..and you don't have to maintain it separately.
+  all the time (and you don't have to maintain it separately down the road).
 * We have committed your initial state.
 
 
