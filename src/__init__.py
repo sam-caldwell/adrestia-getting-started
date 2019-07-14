@@ -8,4 +8,3 @@ def main():
         My application.
         :return:
     """
-    pass
