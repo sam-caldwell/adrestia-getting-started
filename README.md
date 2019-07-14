@@ -1,5 +1,4 @@
 # adrestia-getting-started
-=========================================================
 
 (c) 2018-2019 Sam Caldwell.  See LICENSE.txt
 
